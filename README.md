@@ -14,4 +14,4 @@ For more details about these projects please read my final report, all the solut
 
 ## License
 
-(c) 2018 Ahmad Alzeitoun, University of Bonn.
+&copy; 2018 Ahmad Alzeitoun, University of Bonn.
